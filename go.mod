@@ -1,4 +1,4 @@
-module logx
+module github.com/Abdrashitoff-Vadim/logx
 
 go 1.24.3
 
